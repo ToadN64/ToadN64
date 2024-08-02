@@ -1,5 +1,7 @@
 ## Hello! Im ToadN64 👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-costa-azevedo/)
+
+![Toad GitHub stats](https://github-readme-stats.vercel.app/api?username=ToadN64&theme=blue-green)
 <!--
 **ToadN64/ToadN64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
