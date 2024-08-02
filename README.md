@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-costa-azevedo/)
 <br/>
-<h3>Status do neu GitHub (meus repositorios por enquanto estão privados)</h3>
+<h3>Status do meu GitHub (meus repositorios por enquanto estão privados)</h3>
     <img align="center" alt="Flutter" src="https://github-readme-stats.vercel.app/api?username=ToadN64&theme=blue-green"/>
     
 ![Toad GitHub Languages](	https://github-readme-stats.vercel.app/api/top-langs/?username=ToadN64&theme=blue-green)
