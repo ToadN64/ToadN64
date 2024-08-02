@@ -25,4 +25,4 @@
 </div>
         <img align="center" alt="Toad" src="https://media.tenor.com/3qaFDDZg-3MAAAAM/toad-dancing.gif"/>
 
-![Snake animation](https://github.com/ToadN64/ToadN64/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/ToadN64/ToadN64/blob/output/github-contribution-grid-snake.svg)--!> 
